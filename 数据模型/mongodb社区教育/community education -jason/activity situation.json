@@ -1,0 +1,36 @@
+{
+  "RECORDS": [
+    {
+      "_id": "60802eafce0d0000430049e8",
+      "acid": "0001",
+      "acname": "安全教育",
+      "acposition": "会议室1",
+      "joiner": "张三、李四、王麻子",
+      "number": "50"
+    },
+    {
+      "_id": "60802eafce0d0000430049e9",
+      "acid": "0002",
+      "acname": "环境保护",
+      "acposition": "会议室4",
+      "joiner": "王五、张三、王麻子",
+      "number": "50"
+    },
+    {
+      "_id": "60802eafce0d0000430049ea",
+      "acid": "0003",
+      "acname": "登山",
+      "acposition": "小区外",
+      "joiner": "赵二、李四、赵六",
+      "number": "10"
+    },
+    {
+      "_id": "60802eafce0d0000430049eb",
+      "acid": "0004",
+      "acname": "下棋",
+      "acposition": "会议室3",
+      "joiner": "钱三、李四、王麻子",
+      "number": "20"
+    }
+  ]
+}

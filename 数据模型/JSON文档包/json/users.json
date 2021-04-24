@@ -1,0 +1,57 @@
+{
+    "name": "users",
+    "data": {
+        "user": [
+            {
+                "name": "zhangsan",
+                "account": 18081231121,
+                "classify": "resident",
+                "sex": "男",
+                "age": "18",
+                "telephone": 18081231121,
+                "reside": "维多利亚小区3栋8单元405号",
+                "password":"1651ds616ds1616d5s1f"
+            },
+            {
+                "name": "zhangsan",
+                "account": 18081231122,
+                "classify": "manage",
+                "sex": "男",
+                "age": "26",
+                "telephone": 18081231122,
+                "reside": "维多利亚小区3栋8单元406号",
+                "password":"1651ds616ds1616d5s1f"
+            },
+            {
+                "name": "zhangsan",
+                "account": 18081231123,
+                "classify": "manage",
+                "sex": "女",
+                "age": "25",
+                "telephone": 18081231123,
+                "reside": "维多利亚小区3栋8单元407号",
+                "password":"1651ds616ds1616d5s1f"
+            },
+            {
+                "name": "zhangsan",
+                "account": 18081231124,
+                "classify": "resident",
+                "sex": "女",
+                "age": "31",
+                "telephone": 18081231124,
+                "reside": "维多利亚小区3栋8单元408号",
+                "password":"1651ds616ds1616d5s1f"
+            },
+            {
+                "name": "zhangsan",
+                "account": 18081231125,
+                "classify": "resident",
+                "sex": "女",
+                "age": "29",
+                "telephone": 18081231125,
+                "reside": "维多利亚小区3栋8单元409号",
+                "password":"1651ds616ds1616d5s1f"
+            }
+        ]
+    }
+}
